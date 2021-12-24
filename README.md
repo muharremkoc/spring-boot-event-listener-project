@@ -2,12 +2,20 @@
 
 Event Listeners are the listeners developed to listen to the event in case of any event.
 Let's look at the important concepts we need to know before moving on to the Event Listener process.
+
 • Event Source: It is the component, service, class where the event occurred.
+
 • Event Object: It is the object affected by the event and holding information about the event.
+
 • Event Listeners: These are the listeners who are informed when the event occurs.
+
 • Event Handlers: This is where the code caught by the listener is executed.
+
+----
 Exp:
-   Now, let's create an Email Sending project and examine the Event Listener process.
+  
+  Now, let's create an Email Sending project and examine the Event Listener process.
+
 - First, let's create our Event Object.
  
  ![image](https://user-images.githubusercontent.com/80245013/147348938-60333bc7-f238-43a8-873c-31234ef330f6.png)
